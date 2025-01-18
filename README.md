@@ -8,3 +8,6 @@ https://8-rouge-gamma.vercel.app/playlist?url=https%3A%2F%2Fbit.ly%2Fddy-m3u2&da
 
 
 This repository has no control over the streams, links, or the legality of the content provided by dlhd.so (including all mirror sites). It is the end user's responsibility to ensure the legal use of these playlists, and we strongly recommend verifying that the content complies with the laws and regulations of your country before use.
+
+Credit to 
+dtankdempse
